@@ -1,7 +1,5 @@
-# Starter Web Repo
+##Introduction
+## How to contribute[A[A[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D Introduction
+## Deplyment[C[C[C[C[C[C
+## How to contribute[A[A
 
-This repository is for showing how Git and GitHub work
-
-## Purpose
-
-Sample website with plenty of files for demos
