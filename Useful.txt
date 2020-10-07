@@ -9,3 +9,5 @@ Useful by feature branch !@#$%^&*(*&^%$#@
 Useful by Master branch )(*)(@#($(($)
 
 changes by master
+
+adding new changes in USEFUL file -by master branch on local
