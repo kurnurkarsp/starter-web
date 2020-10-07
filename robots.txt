@@ -3,3 +3,5 @@
 User-agent: *
 
 you are robot
+
+Remote :changes in robot.txt file
