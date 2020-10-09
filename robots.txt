@@ -7,3 +7,5 @@ you are robot
 Remote :changes in robot.txt file
 
 git stash example
+
+RObotic changes by stash
