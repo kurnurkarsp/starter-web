@@ -9,3 +9,6 @@ Remote :changes in robot.txt file
 git stash example
 
 RObotic changes by stash
+
+
+you are beautiful
